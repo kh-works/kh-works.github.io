@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["works"],{1822:function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},s=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"works"},[t("h1",[e._v("This is an works page")])])}],r=(t("abe0"),t("2877")),c={},i=Object(r["a"])(c,a,s,!1,null,"590b9ac4",null);n["default"]=i.exports},a4e8:function(e,n,t){},abe0:function(e,n,t){"use strict";var a=t("a4e8"),s=t.n(a);s.a}}]);
+//# sourceMappingURL=works.dc2521b8.js.map
